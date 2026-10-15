@@ -1,0 +1,1 @@
+# No pip dependencies. Python 3.11+ with Tkinter and system IANA timezone data.
